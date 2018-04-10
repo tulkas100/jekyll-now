@@ -3,13 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+Tulkas es un inquieto ingeniero que lleva cacharreando con ordenadores desde los 12 años alla por 1982
 
-Some information about you!
+### Mas información
 
-### More Information
+Se me puede calsificar como friki de todo, o lo que es lo mismo, no soy superfriki en nada
 
-A place to include any other types of information that you'd like to include about yourself.
+### Si te apetece mandarme spam
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[tulkas_100@hotmail.com](mailto:tulkas_100@hotmail.com)
