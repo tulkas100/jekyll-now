@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Todo tiene un principio...
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Este blog es parte de un experimento personal para probar multiples disciplinas y recursos a partir de haber recuperado un viejo Asus eee PC 4G como plataforma para dejar en la web constancia de mis pequeñas proezas y grandes fracasos en dichas pruebas.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+> Espero que os riais con migo y sufrais conmigo estos momentos
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+*TULKAS*
+
